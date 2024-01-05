@@ -33,7 +33,7 @@ void setup()
 
 void loop()
 {
-	 cyclon();
+	 //cyclon();
 	//knightrider(100, CRGB::Green);
-	//showRPM();
+	showRPM();
 }
